@@ -1,4 +1,4 @@
-FROM us-docker.pkg.dev/ntopweb/ntop-automate/ntop-automate:latest
+FROM us-docker.pkg.dev/ntopweb/ntop-automate/ntop-automate:5.54.2
 
 USER root
 
